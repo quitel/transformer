@@ -1,0 +1,2 @@
+pythonProject1/dataset/train.en filter=lfs diff=lfs merge=lfs -text
+pythonProject1/dataset/train.zh filter=lfs diff=lfs merge=lfs -text
